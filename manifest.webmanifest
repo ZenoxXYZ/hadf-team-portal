@@ -1,0 +1,9 @@
+{
+  "name":"HADF Team Learning & Operations Portal",
+  "short_name":"HADF Portal",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#0c111b",
+  "theme_color":"#0c111b",
+  "description":"Offline-ready learning and event-day operations portal for the Hackathon Agentic Development Framework."
+}
